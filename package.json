@@ -1,0 +1,20 @@
+{
+  "name": "atom-haxe-formatter",
+  "main": "./lib/atom-haxe-formatter",
+  "version": "0.0.1",
+  "description": "formats haxe code",
+  "keywords": [
+    "haxe",
+    "format",
+    "formatting"
+  ],
+  "activationCommands": {
+    "atom-workspace": "atom-haxe-formatter:toggle"
+  },
+  "repository": "https://github.com/jrc03c/atom-haxe-formatter",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
