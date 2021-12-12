@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle atom-haxe-formatter",
-        "command": "atom-haxe-formatter:toggle"
+        "label": "Activate atom-haxe-formatter",
+        "command": "atom-haxe-formatter:activate"
       }
     ]
   },
@@ -15,8 +15,8 @@
           "label": "atom-haxe-formatter",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "atom-haxe-formatter:toggle"
+              "label": "Activate",
+              "command": "atom-haxe-formatter:activate"
             }
           ]
         }

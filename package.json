@@ -9,7 +9,7 @@
     "formatting"
   ],
   "activationCommands": {
-    "atom-workspace": "atom-haxe-formatter:toggle"
+    "atom-workspace": "atom-haxe-formatter:activate"
   },
   "repository": "https://github.com/jrc03c/atom-haxe-formatter",
   "license": "MIT",

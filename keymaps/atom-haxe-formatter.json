@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "atom-haxe-formatter:toggle"
+    "ctrl-alt-o": "atom-haxe-formatter:activate"
   }
 }
