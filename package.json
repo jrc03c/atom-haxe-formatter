@@ -2,15 +2,15 @@
   "name": "atom-haxe-formatter",
   "main": "./lib/atom-haxe-formatter",
   "version": "0.0.1",
-  "description": "formats haxe code",
+  "description": "formats haxe code on save",
   "keywords": [
     "haxe",
     "format",
     "formatting"
   ],
-  "activationCommands": {
-    "atom-workspace": "atom-haxe-formatter:activate"
-  },
+  "activationHooks": [
+    "language-haxe:grammar-used"
+  ],
   "repository": "https://github.com/jrc03c/atom-haxe-formatter",
   "license": "MIT",
   "engines": {
