@@ -1,3 +1,1 @@
-# atom-haxe-formatter
-
-This package formats Haxe code on save.
+Moved: [https://git.sr.ht/~jrc03c/atom-haxe-formatter](https://git.sr.ht/~jrc03c/atom-haxe-formatter)
